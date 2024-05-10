@@ -1,0 +1,23 @@
+@media only screen and (width <= 576px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .calculator {
+    width: 300px;
+  }
+
+  .input {
+    height: 65px;
+  }
+
+  .button {
+    height: 55px;
+  }
+
+  .clear-button {
+    height: 65px;
+    font-size: 1.5rem;
+  }
+}
